@@ -5,3 +5,6 @@ Phạm Tấn Minh Quân 59131988
 
 Bài 2: nut bam led
 <p> https://www.tinkercad.com/things/0I56Z6HvV9Q
+
+Bài 3: cam bien nhiet do
+<p> https://www.tinkercad.com/things/0B8EoJLsmIN
