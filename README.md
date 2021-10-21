@@ -14,3 +14,12 @@ Bài 4: Led ma tran
   
 Bài 5: motors
 <p> https://www.tinkercad.com/things/lsg09G3elEp
+  
+Bài 6: dien tro quang
+<p> https://www.tinkercad.com/things/a4mTWlIgOhO
+    
+Bài 7: dem 0-9
+<p> https://www.tinkercad.com/things/fiK6IOsqyhq
+    
+Bài 8: dem 0.0-9.9
+<p> https://www.tinkercad.com/things/4Pjpj1qqvPi
