@@ -23,3 +23,6 @@ Bài 7: dem 0-9
     
 Bài 8: dem 0.0-9.9
 <p> https://www.tinkercad.com/things/4Pjpj1qqvPi
+
+Bài 9: den giao thong  
+<p> https://www.tinkercad.com/things/ai9ugW881Os
