@@ -743,8 +743,9 @@ ARM Macro Assembler    Page 12
               00000000 
 Command Line: --debug --xref --cpu=Cortex-M4.fp --apcs=interwork --depend=ledtr
 aitim\startup_stm32f401xe.d -oledtraitim\startup_stm32f401xe.o -I"F:\stm pro\Le
-dTraiTim\MDK-ARM\RTE" -IF:\keil\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include --predef
-ine="__EVAL SETA 1" --list=startup_stm32f401xe.lst startup_stm32f401xe.s
+dTraiTim\MDK-ARM\RTE" -IF:\keil\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include -IF:\kei
+l\ARM\PACK\Keil\STM32F4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include -
+-predefine="__EVAL SETA 1" --list=startup_stm32f401xe.lst startup_stm32f401xe.s
 
 
 
